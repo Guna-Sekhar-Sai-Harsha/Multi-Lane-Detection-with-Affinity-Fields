@@ -1,13 +1,4 @@
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/laneaf-robust-multi-lane-detection-with/lane-detection-on-culane)](https://paperswithcode.com/sota/lane-detection-on-culane?p=laneaf-robust-multi-lane-detection-with)
-
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/laneaf-robust-multi-lane-detection-with/lane-detection-on-llamas)](https://paperswithcode.com/sota/lane-detection-on-llamas?p=laneaf-robust-multi-lane-detection-with)
-
 # LaneAF: Robust Multi-Lane Detection with Affinity Fields
-
-[Paper link](http://cvrr.ucsd.edu/publications/2021/LaneAF.pdf)
-
-[Video results](https://youtube.com/playlist?list=PLUebh5NWCQUZv8IXYOVNM5SuRYQzScW5P)
-
 ![VAF](assets/result_zoomed_VAF.png)
 ![HAF](assets/result_zoomed_HAF.png)
 
